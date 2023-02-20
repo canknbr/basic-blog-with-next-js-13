@@ -20,7 +20,7 @@ yarn dev
 pnpm dev
 ```
 
-Deployed the Vercel and open [https://blog-next13-ashy.vercel.app/](https://blog-next13-ashy.vercel.app/) with your browser to see the result.
+
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
