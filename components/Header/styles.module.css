@@ -1,0 +1,12 @@
+.headerWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color:#e9ecef;
+}
+.nav p {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+}
